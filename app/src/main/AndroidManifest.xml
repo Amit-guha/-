@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.esoshiki">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".BanjonBorno_Sobdo"></activity>
+        <activity android:name=".English_12_month" />
+        <activity android:name=".English_Seven_days" />
+        <activity android:name=".Bangla_Seven_days" />
+        <activity android:name=".Bangal_12_mas" />
+        <activity android:name=".Sorborno_to_sobdo" />
+        <activity android:name=".One_two_three" />
+        <activity android:name=".Sorbonrno_to_sobdo" />
+        <activity android:name=".English_numberSystem" />
+        <activity android:name=".Bangal_banjonborno" />
+        <activity android:name=".Bangla_Sorborno" />
+        <activity android:name=".Englsih_cursive" />
+        <activity android:name=".English_lowercase" />
+        <activity android:name=".MainInterface">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity" />
+    </application>
+
+</manifest>

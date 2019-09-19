@@ -1,0 +1,314 @@
+<resources>
+    <string name="app_name">ESO SHIKI</string>
+
+    <string-array name="English_Alphabet">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+
+    </string-array>
+
+    <string-array name="English_Alphabet_lower">
+        <item>a</item>
+        <item>b</item>
+        <item>c</item>
+        <item>d</item>
+        <item>e</item>
+        <item>f</item>
+        <item>g</item>
+        <item>h</item>
+        <item>i</item>
+        <item>j</item>
+        <item>k</item>
+        <item>l</item>
+        <item>m</item>
+        <item>n</item>
+        <item>o</item>
+        <item>p</item>
+        <item>q</item>
+        <item>r</item>
+        <item>s</item>
+        <item>t</item>
+        <item>u</item>
+        <item>v</item>
+        <item>w</item>
+        <item>x</item>
+        <item>y</item>
+        <item>z</item>
+
+    </string-array>
+
+    <string-array name="English_word">
+        <item>Apple[অ্যাপল]</item>
+        <item>Banana[বানাঃনা]</item>
+        <item>Cat[ক্যাট]</item>
+        <item>Dog[ডগ]</item>
+        <item>Egg[এগ]</item>
+        <item>Fish[ফিশ]</item>
+        <item>Game[গেইম]</item>
+        <item>Hospital[হসপিটল]</item>
+        <item>Ink[ইঙক]</item>
+        <item>Jug[জাগ]</item>
+        <item>Key[কী]</item>
+        <item>Lion[লাইঅন]</item>
+        <item>Mango[ম্যাংগৌ]</item>
+        <item>Nose[নৌ জ]</item>
+        <item>Oil[অয়ল]</item>
+        <item>Pot[প্ট]</item>
+        <item>Queen[কুঈন]</item>
+        <item>Rose[রৌজ]</item>
+        <item>Stomach[স্টমাক]</item>
+        <item>Table[টেইবল]</item>
+        <item>Umbrella[আমব্রেল]</item>
+        <item>Van[ভ্যান]</item>
+        <item>Water[ওয়োটা(র)]</item>
+        <item>X-ray[একসরেই]</item>
+        <item>Yoke[ইওক]</item>
+        <item>Zoo[জূ]</item>
+
+
+    </string-array>
+
+    <string-array name="englishtobangla">
+        <item>আপেল</item>
+        <item>কলা</item>
+        <item>বিড়াল</item>
+        <item>কুকুর</item>
+        <item>ডিম</item>
+        <item>মাছ</item>
+        <item>খেলা</item>
+        <item>হাসপাতাল</item>
+        <item>কালি</item>
+        <item>জগ</item>
+        <item>চাবি</item>
+        <item>সিংহ</item>
+        <item>আম</item>
+        <item>নাক</item>
+        <item>তেল</item>
+        <item>পাত্র</item>
+        <item>রানী</item>
+        <item>গোলাপফুল</item>
+        <item>পাকস্থলী</item>
+        <item>টেবিল</item>
+        <item>ছাতা</item>
+        <item>ভ্যান</item>
+        <item>পানি</item>
+        <item>রঞ্জনরশ্মি</item>
+        <item>জোয়াল</item>
+        <item>চিড়িয়াখানা</item>
+
+    </string-array>
+
+    <string-array name="Bengali_sorborno">
+        <item>অ</item>
+        <item>আ</item>
+        <item>ই</item>
+        <item>ঈ</item>
+        <item>উ</item>
+        <item>ঊ</item>
+        <item>ঋ</item>
+        <item>এ</item>
+        <item>ঐ</item>
+        <item>ও</item>
+        <item>ঔ</item>
+    </string-array>
+
+    <string-array name="Sorborno_sobdo">
+        <item>অজগর</item>
+        <item>আম</item>
+        <item>ইলিশ</item>
+        <item>ঈগল</item>
+        <item>উপহার</item>
+        <item>উট</item>
+        <item>ঋতু</item>
+        <item>একতারা</item>
+        <item>ঐরাবত(হাতি)</item>
+        <item>ওলকপি</item>
+        <item>ঔষধ</item>
+    </string-array>
+
+    <string-array name="bakko">
+        <item>অজগরটি আসছে তেড়ে</item>
+        <item>আমটি খেতে বেশ মজা</item>
+        <item>ইলিশ মাছ খেতে মজা</item>
+        <item>ঈগল পাখি তাকায় ফিরে</item>
+        <item>উট চলেছে মরুর দেশে</item>
+        <item>ঊষা হাসে পূব আকাশে</item>
+        <item>ঋতুর রাজা বাংলাদেশ</item>
+        <item>একতারা হাতে বাউল গায়</item>
+        <item>ঐরাবত চলে ধীর পায়</item>
+        <item>ওলকপি খেতে মজা</item>
+        <item>ঔষধ খেয়ে হও তাজা</item>
+
+    </string-array>
+
+    <string-array name="Bangla_BanjonBorno">
+        <item>ক</item>
+        <item>খ</item>
+        <item>গ</item>
+        <item>ঘ</item>
+        <item>ঙ</item>
+        <item>চ</item>
+        <item>ছ</item>
+        <item>জ</item>
+        <item>ঝ</item>
+        <item>ঞ</item>
+        <item>ট</item>
+        <item>ঠ</item>
+        <item>ড</item>
+        <item>ঢ</item>
+        <item>ণ</item>
+        <item>ত</item>
+        <item>থ</item>
+        <item>দ</item>
+        <item>ধ</item>
+        <item>ন</item>
+        <item>প</item>
+        <item>ফ</item>
+        <item>ব</item>
+        <item>ভ</item>
+        <item>ম</item>
+        <item>য</item>
+        <item>র</item>
+        <item>ল</item>
+        <item>শ</item>
+        <item>ষ</item>
+        <item>স</item>
+        <item>হ</item>
+        <item>ড়</item>
+        <item>ঢ়</item>
+        <item>য়</item>
+        <item>ৎ</item>
+        <item></item>
+        <item>ঃ</item>
+        <item>ঁ</item>
+
+    </string-array>
+
+    <string-array name="Math">
+        <item>1\none</item>
+        <item>2\nTwo</item>
+        <item>3\nThree</item>
+        <item>4\nFour</item>
+        <item>5\nFive</item>
+        <item>6\nSix</item>
+        <item>7\nSeven</item>
+        <item>8\nEight</item>
+        <item>9\nNine</item>
+        <item>10\nTen</item>
+        <item>11\nEleven</item>
+        <item>12\nTwelve</item>
+        <item>13\nThirteen</item>
+        <item>14\nFourteen</item>
+        <item>15\nFifteen</item>
+        <item>16\nSixteen</item>
+        <item>17\nSeven   teen</item>
+        <item>18\nEighteen</item>
+        <item>19\nNineteen</item>
+        <item>20\nTwenty</item>
+        <item>21\nTwenty   one</item>
+        <item>22\nTwenty   two</item>
+        <item>23\nTwenty   three</item>
+        <item>24\nTwenty   four</item>
+        <item>25\nTwenty   five</item>
+        <item>26\nTwenty   six</item>
+        <item>27\nTwenty   seven</item>
+        <item>28\nTwenty   eight</item>
+        <item>29\nTwenty   nine</item>
+        <item>30\nThirty</item>
+        <item>31\nThirty   one</item>
+        <item>32\nThirty   two</item>
+        <item>33\nThirty   three</item>
+        <item>34\nThirty   four</item>
+        <item>35\nThirty   five</item>
+        <item>36\nThirty   six</item>
+        <item>37\nThirty   seven</item>
+        <item>38\nThirty   eight</item>
+        <item>39\nThirty   nine</item>
+        <item>40\nFourty</item>
+        <item>41\nFourty   one</item>
+        <item>42\nFourty   two</item>
+        <item>43\nFourty   three</item>
+        <item>44\nFourty   four</item>
+        <item>45\nFourty   five</item>
+        <item>46\nFourty   six</item>
+        <item>47\nFourty   seven</item>
+        <item>48\nFourty   eight</item>
+        <item>49\nFourty   nine</item>
+        <item>50\nFifty</item>
+        <item>51\nFifty    one</item>
+        <item>52\nFifty    two</item>
+        <item>53\nFifty    three</item>
+        <item>54\nFifty    four</item>
+        <item>55\nFifty    five</item>
+        <item>56\nFifty    six</item>
+        <item>57\nFifty    seven</item>
+        <item>58\nFifty    eight</item>
+        <item>59\nFifty    nine</item>
+        <item>60\nSixty</item>
+        <item>61\nSixty    one</item>
+        <item>62\nSixty    two</item>
+        <item>63\nSixty    three</item>
+        <item>64\nSixty    four</item>
+        <item>65\nSixty    five</item>
+        <item>66\nSixty    six</item>
+        <item>67\nSixty    seven</item>
+        <item>68\nSixty    eight</item>
+        <item>69\nSixty    nine</item>
+        <item>70\nSeventy</item>
+        <item>71\nSeventy  one</item>
+        <item>72\nSeventy  two</item>
+        <item>73\nSeventy  three</item>
+        <item>74\nSeventy  four</item>
+        <item>75\nSeventy  five</item>
+        <item>76\nSeventy  six</item>
+        <item>77\nSeventy  seven</item>
+        <item>78\nSeventy  eight</item>
+        <item>79\nSeventy  nine</item>
+        <item>80\nEighty</item>
+        <item>81\nEighty   one</item>
+        <item>82\nEighty   two</item>
+        <item>83\nEighty   three</item>
+        <item>84\nEighty   four</item>
+        <item>85\nEighty   five</item>
+        <item>86\nEighty   six</item>
+        <item>87\nEighty   seven</item>
+        <item>88\nEighty   eight</item>
+        <item>89\nEighty   nine</item>
+        <item>90\nNinety</item>
+        <item>91\nNinety   one</item>
+        <item>92\nNinety   two</item>
+        <item>93\nNinety   three</item>
+        <item>94\nNinety   four</item>
+        <item>95\nNinety   five</item>
+        <item>96\nNinety   six</item>
+        <item>97\nNinety   seven</item>
+        <item>98\nNinety   eight</item>
+        <item>99\nNinety   nine</item>
+        <item>100\nOne hundred</item>
+    </string-array>
+
+</resources>
